@@ -1,5 +1,9 @@
+p {
+    color: #FFFFFF
+}
 body {
     font-family: Arial;
+    background:url('/background.png')
 }
 a:link{
 color:Blue;
