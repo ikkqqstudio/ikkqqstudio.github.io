@@ -1,8 +1,9 @@
+@import url('https://api.fonts.coollabs.io/css2?family=Comic+Relief:wght@400;700&family=Noto+Emoji:wght@300..700&display=swap');
 p {
     color: #FFFFFF
 }
 body {
-    font-family: Arial;
+    font-family: "Comic Relief", system-ui;
     background:url('/background.png');
     background-size: cover;
     background-attachment: fixed;
