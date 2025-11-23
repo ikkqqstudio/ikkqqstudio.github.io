@@ -2,6 +2,7 @@ p {
     color: #FFFFFF
 }
 body {
+    font-family: Arial, Helvetica, sans-serif;
     background:url('/background.png');
     background-size: cover;
     background-attachment: fixed;
