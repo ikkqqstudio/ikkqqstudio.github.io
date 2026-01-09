@@ -15,6 +15,10 @@ a:link, a:visited{
 color:white;
 text-decoration:none
 }
+[src="https://img.shields.io/youtube/channel/subscribers/UCQGMtOAuEUa0_P0B9Pr-Ffg?style=social"] {
+    margin-left: 10px;
+    margin-top: 3px;
+}
 a:link:hover, a:visited:hover {
     text-decoration:underline
 }
