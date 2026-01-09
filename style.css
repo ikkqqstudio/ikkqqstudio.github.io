@@ -25,6 +25,9 @@ a:link:hover, a:visited:hover {
     background: #ffffffff;
     z-index: 1;
 }
+.box {
+    box-shadow: 0 0 10px #00000068
+}
 h1 {
 color: white;
 }
