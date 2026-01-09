@@ -10,11 +10,12 @@ body {
     background-color: #6f0002;
     background-position: center;
 }
-a:link{
-color:Blue;
+a:link, a:visited{
+color:white;
+text-decoration:none
 }
-a:visited{
-color:Blue;
+a:link:hover, a:visited:hover {
+    text-decoration:underline
 }
 h1 {
 color: white;
